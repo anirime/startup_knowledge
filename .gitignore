@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database
+backend/startups.db
+backend/*.db
+backend/*.db-*
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.svelte-kit/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
